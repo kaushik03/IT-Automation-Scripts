@@ -1,6 +1,19 @@
-# IT Automation Scripts
+# IT Automation Scripts using Python and Bash
 --------------------------
 
-This repository is just a collection of scripts I made in my free time with a perspective of automating tasks
+Studied the course `IT Automation with Google`
 
-The scripts are written in `Python`.
+These scripts undertake operations while interacting with the system.
+
+Tasks includes
+- [x] Displaying System information:
+     - CPU Info using psutil
+     - Memory info using shutil from OS module.
+- [x] Managing files and generating reports
+    - Using Dictionary and tuples to manipulate data
+    - Using regex to extract information
+- [x] Using Bash to interact with the system.
+
+**System Used: Linux Ubuntu**
+**Python version: 3.8**
+
